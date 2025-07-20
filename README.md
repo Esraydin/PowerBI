@@ -35,9 +35,19 @@ Müşteri başına ciro, sipariş başına ortalama tutar, müşteri başına si
 ---
 
 ### 🔹 Saatlik Satış Grafiği
-Verilerin dakika bazlı geldiği durumda saatlik dilimlere gruplayarak ciroyu görselleştirme:
+Verileri saatlik dilimlere gruplayarak ciroyu görselleştirme:
 
 <img width="538" height="214" alt="image" src="https://github.com/user-attachments/assets/c0d00c0e-9b0d-4892-98f0-e01e974f20ad" />
+
+
+---
+
+
+
+### 🔹 İstanbul Top 10 Müşteri Tablosu
+İstanbul’da en yüksek ciro yapan 10 müşterinin listesi:
+
+<img width="348" height="254" alt="image" src="https://github.com/user-attachments/assets/1935d54b-0c5b-473f-a4e3-243c951a2ff4" />
 
 
 ---
@@ -46,14 +56,6 @@ Verilerin dakika bazlı geldiği durumda saatlik dilimlere gruplayarak ciroyu g�
 Sleepy markası altında yer alan ürünlerin kategori bazında toplam ciro analiz analizi:
 
 <img width="1250" height="713" alt="image" src="https://github.com/user-attachments/assets/1eba6499-3462-4daf-a143-530932410deb" />
-
-
----
-
-### 🔹 İstanbul Top 10 Müşteri Tablosu
-İstanbul’da en yüksek ciro yapan 10 müşterinin listesi:
-
-<img width="348" height="254" alt="image" src="https://github.com/user-attachments/assets/1935d54b-0c5b-473f-a4e3-243c951a2ff4" />
 
 
 ---
